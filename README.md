@@ -1,6 +1,34 @@
 # **Week 5 MatPlotLib Challenge**
 ### Chris Gruenhagen 10/22/2022
-Homework Log
+**Homework Log**
+
+The final homework file name is "pymaceuticals_Report.ipynb" located in the Pymaceuticals folder in the matplotlib-challenge repository.
+
+**Homework Summary**
+
+## Pymaceuticals Inc.
+---
+### Purpose
+
+The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+
+### Study Format
+
+In this study, 249 mice who were identified with SCC tumors received treatment with a range of nine drug regimens and one placebo. The mouse population was 49% female and 51% male.  Over the course of 45 days, tumor development was observed and measured. 
+
+### Analysis
+
+Of the nine drug regimens tested, reduced tumor volumes were only observed with the Capomulin and Ramican drug regimens.  Tumor volumes increased for all other drug regimens as well as the placebo group.
+
+Average tumor volume is correlated with mouse weight.  As the mouse weight increases, the average tumor volume increases.  
+
+The Drug Regimen and Mouse weight data is confounded as the Capomulin and Ramican groups consisted of lower weight mice compared to the other test groups.  Additional testing will be required to identify the impact of drug regimen and/or mouse weight on tumor volume.
+
+
+### Exclusions
+One mouse (g989) was removed from the analysis of the Propriva Drug Regimen due to duplicate measurements taken at multiple timepoints.
+
+
 
 # &#x1F9DF; &#x1F9DF;&#x200D;&#x2640;&#xFE0F; &#x1F383; &#x1F383; &#x1F383; &#x1F383; &#x1F383; &#x1F383; &#x1F9DB; &#x1F9DB;&#x200D;&#x2640;&#xFE0F; 
 
